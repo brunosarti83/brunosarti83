@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, i'm Bruno👋
 
-<!--
-**brunosarti83/brunosarti83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Full Stack Web Developer** 💻
+*graduate @Henry*
+<br></br>
+**Currently creating full web applications using:**
++ React
++ Redux
++ Tailwind 
++ NodeJS
++ Express<br/>
+...
+<br></br>
+Since i have an interest and a background in finance i have also participated in developing some Python projects that analyze stock-market and crypto-market data and interact with brokers APIs, as well as backtest trading strategies. 
 
-Here are some ideas to get you started:
+#### I'm looking forward to participating in bigger, greater, exiting & challenging projects!
+You can look for me on [linkedIn](https://www.linkedin.com/in/brunosarti83/) or write to brunosarti.bs@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
