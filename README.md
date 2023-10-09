@@ -8,7 +8,9 @@
 + Redux
 + Tailwind 
 + NodeJS
-+ Express<br/>
++ Express
++ PostgreSQL
++ Sequelize<br/>
 ...
 <br></br>
 Since i have an interest and a background in finance i have also participated in developing some Python projects that analyze stock-market and crypto-market data and interact with brokers APIs, as well as backtest trading strategies. 
